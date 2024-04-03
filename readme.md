@@ -1,6 +1,6 @@
 
 
-## [Your Name]
+## Madiyah                     Numa
 ![Header](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## Hi there 👋
@@ -8,11 +8,11 @@
 I'm a <b>[your department/year]</b> student at Lords Institute of Engineering & Technology. Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on [project or internship].
-- 🌱 I’m currently learning [specific technology or skill].
+- 🌱 I’m currently learning C,HTML,CSS.
 - 🤔 I’m looking for help with [specific problem or challenge].
 - 💬 Ask me about [anything related to your interests or skills].
-- 📫 How to reach me: [your email or other contact information].
-- 😄 Pronouns: [your pronouns, e.g., he/him, she/her].
+- 📫 How to reach me: [your email or other].
+- 😄 Pronouns:  she/her contact 
 - ⚡ Fun fact: [interesting fact about yourself].
 
 ### Languages and Tools:
